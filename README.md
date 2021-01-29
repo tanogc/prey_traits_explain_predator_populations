@@ -4,7 +4,7 @@ Code to re-create analysis for "Populations of high-value predators reflect the 
 
 In this study, we characterise prey use and distribution in iconic bird (grey wagtails and Eurasian dippers) and fish species (brown trout and Atlantic salmon) to assess whether prey traits could predict populations of these four riverine predators. Specifically, we hypothesised that: (i) Prey key traits would predict predator populations more effectively than (ii) Diversity of prey traits, (iii) the taxonomic abundance or richness of prey (known as traditional or mass-effect types of biodiversity) or (iv) the prevailing environmental conditions. 
 
-This code reproduces analysis to estimate diet preferences of the four riverine predators, the statistical support of the four hypothesised mechanisms and a multi-threshold analysis to determine to what extent these four predator species could be sustained simultaneously under current environmental conditions.
+This code reproduces analysis to estimate diet preferences of the four riverine predators, model exploring the predicting capacity of the four hypothesised mechanisms and a multi-threshold analysis to determine to what extent these four predator species could be sustained simultaneously under current environmental conditions.
 
 ## Original article:
 
@@ -43,7 +43,6 @@ install.packages(c("ape", "arm", "car", "ecodist", "FD", "lme4", "lmerTest",
               
 library(devtools)
 install_github("jebyrnes/multifunc", force=T)
-
 ```
 
 Please, send questions or problems related with the use of this code to Cayetano Gutiérrez Cánovas (cayeguti@um.es).
