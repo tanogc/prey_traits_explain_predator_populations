@@ -11,8 +11,9 @@ This code reproduces analysis to estimate diet preferences of the four riverine 
 Please, use this citation to reference the code:
 
 ```
-Gutiérrez-Cánovas, C., Worthington, T.A., Jâms, I.B., Noble, D.G., Perkins, D.M., Vaughan, I.P., Woodward, G., 
-Ormerod, S.J. & I. Durance, 2020. Populations of high-value predators reflect the traits of their prey. Ecography.
+Gutiérrez-Cánovas, C., Worthington, T.A., Jâms, I.B., Noble, D.G., Perkins, D.M., 
+Vaughan, I.P., Woodward, G., Ormerod, S.J. & I. Durance, 2020. Populations of 
+high-value predators reflect the traits of their prey. Ecography.
 ```
 
 ## R files description:
