@@ -1,0 +1,176 @@
+order	family	genus_all	species	taxa	lifespan_l1yr	lifespan_g1yr	gen_less	gen_equa	gen_grea	stage_egg	stage_larv	stage_nymp	stage_adul	rep_ovov	rep_isol	rep_isol.1	rep_clut	rep_clut.1	rep_clut.2	rep_clut.3	rep_asex	disp_aq_pas	disp_aq_act	disp_aer_pas	disp_aer_act	resist_eggs	resist_coco	resist_hous	resist_diap	resist_none	resp_tegu	resp_gill	resp_plas	resp_spir	resp_hydr
+Coleoptera	DYTISCIDAE	Agabus	sp. Ad. / Lv.	Agabus	0	3	0	3	1	3	3	0	2	0	0	0	3	0	1	0	0	1	1	0	3	0	0	0	0	3	1	0	0	3	0
+Trichoptera	GLOSSOSOMATIDAE	Agapetus	sp.	Agapetus	3	0	0	3	1	3	3	3	0	0	0	0	3	0	0	0	0	1	2	1	1	0	2	0	2	0	3	0	0	0	0
+Plecoptera	NEMOURIDAE	Amphinemura	sp.	Amphinemura	3	0	0	3	0	3	3	0	0	0	0	3	0	0	0	0	0	2	2	0	1	1	0	0	2	2	3	2	0	0	0
+Gastropoda	PLANORBIDAE	Ancylus	fluviatilis	Ancylus_fluviatilis	3	0	0	3	0	3	0	0	3	0	0	0	3	0	0	0	0	2	1	1	0	0	0	0	0	2	3	0	0	0	0
+Crustacea	ASELLIDAE	Asellus	aquaticus	Asellus_aquaticus	3	1	0	1	3	3	3	0	3	3	0	0	0	0	0	0	0	3	0	0	0	0	0	0	2	2	0	3	0	0	0
+Diptera	ATHERICIDAE	Atherix	sp.	Atherix	3	1	1	3	0	0	3	0	0	0	0	0	0	0	0	3	0	0	1	0	1	0	0	0	0	3	0	1	0	0	0
+Ephemeroptera	BAETIDAE	Baetis	sp.	Baetis	3	0	0	2	3	3	3	0	0	0	0	1	3	0	0	0	0	3	2	1	3	2	0	0	0	2	1	2	0	0	0
+Trichoptera	BERAEIDAE	Beraea	sp.	Beraea	3	0	0	3	0	3	2	3	0	0	0	0	1	0	0	0	0	0	1	1	1	0	0	0	0	0	3	0	0	0	0
+Plecoptera	TAENIOPTERYGIDAE	Brachyptera	sp.	Brachyptera	3	0	0	3	0	3	3	0	0	0	0	3	0	0	0	0	0	2	2	0	1	1	0	0	2	0	3	0	0	0	0
+Ephemeroptera	CAENIDAE	Caenis	sp.	Caenis	3	0	0	1	3	3	3	0	0	0	1	2	0	0	0	0	0	2	1	1	1	2	0	0	1	2	1	3	0	0	0
+Plecoptera	CAPNIIDAE	Capnia	sp.	Capnia	3	0	0	3	0	3	3	0	0	3	1	0	0	0	0	0	0	1	2	0	1	0	0	0	3	1	3	0	0	0	0
+		Ceratopogoninae			3	0	0	2	2	1	2	2	0	0	0	1	3	0	0	0	0	3	1	0	2	1	0	0	0	3	0	3	0	0	0
+		Chaetopteryx			3	0	0	3	0	3	3	3	0	0	0	0	3	0	0	0	0	0	1	0	3	0	0	0	2	1	2	2	0	0	0
+		Chironomidae			3	0	0	2	2	0	3	3	0	0	0	0	1	3	0	0	0	2	1	2	1	0	0	0	0	3	3	1	0	0	0
+Plecoptera	CHLOROPERLIDAE	Chloroperla	sp.	Chloroperla	1	3	3	1	0	3	3	0	0	0	0	2	2	0	0	0	0	3	2	0	1	0	0	0	0	3	3	0	0	0	0
+Diptera	EMPIDIDAE	Clinocerinae	Gen. sp.	Clinocerinae	3	0	0	3	1	0	3	3	0	0	0	0	0	0	0	3	0	1	1	0	3	0	0	0	0	0	1	0	0	1	0
+Odonata	CORDULEGASTRIDAE	Cordulegaster	sp.	Cordulegaster	0	3	3	0	0	2	3	0	0	0	3	0	0	0	0	1	0	2	0	0	3	0	0	0	0	3	1	3	0	0	0
+		Corixidae			3	0	0	1	2	3	3	0	2	0	0	1	3	0	0	0	0	1	2	0	2	0	0	0	1	0	1	0	2	3	0
+Trichoptera	LEPIDOSTOMATIDAE	Crunoecia	sp.	Crunoecia	0	3	3	0	0	3	2	3	0	0	0	0	3	0	0	0	0	1	1	1	1	0	0	0	0	0	2	2	0	0	0
+Plecoptera	PERLIDAE	Dinocras	sp.	Dinocras	0	3	3	0	0	3	3	0	0	0	0	3	0	0	0	0	0	1	2	0	1	2	0	0	2	1	0	3	0	0	0
+Trichoptera	HYDROPSYCHIDAE	Diplectrona	felix	Diplectrona_felix	3	1	1	3	0	3	3	3	0	0	0	0	3	0	0	0	0	3	1	1	3	0	0	0	0	3	2	0	0	0	0
+Plecoptera	PERLODIDAE	Diura	bicaudata	Diura_bicaudata	1	3	3	2	0	3	3	0	0	0	0	0	1	3	0	0	0	1	2	0	1	3	0	0	2	0	3	0	0	0	0
+Diptera	DIXIDAE	Dixa	sp.	Dixa	3	0	0	3	0	2	3	2	0	0	0	0	3	1	0	1	0	3	1	1	0	0	0	0	2	0	0	0	0	3	0
+		Dixidae			3	0	0	3	0	2	3	2	0	0	0	0	3	1	0	1	0	3	1	1	0	0	0	0	2	0	0	0	0	3	0
+Trichoptera	LIMNEPHILIDAE	Drusus	sp.	Drusus	3	1	1	3	0	3	3	3	0	0	0	0	3	0	0	1	0	3	2	0	2	0	0	0	0	1	3	2	0	0	0
+Coleoptera	DRYOPIDAE	Dryops	sp. Ad. / Lv.	Dryops	1	3	0	3	0	1	2	0	1	0	0	0	0	0	1	3	0	0	1	0	3	0	0	0	0	3	3	0	3	3	0
+		Dytiscidae_larvae			1	3	0	2	2	3	3	0	2	0	0	0	2	0	1	0	0	1	1	0	3	0	0	0	0	3	1	0	0	3	0
+Trichoptera	LIMNEPHILIDAE	Ecclisopteryx	sp.	Ecclisopteryx	1	0	0	3	0	3	3	3	0	0	0	0	3	0	0	1	0	0	2	0	2	0	0	0	0	0	3	2	0	0	0
+Ephemeroptera	HEPTAGENIIDAE	Ecdyonurus	sp.	Ecdyonurus	3	1	1	3	0	3	3	0	0	0	2	0	3	0	0	0	0	3	1	1	3	2	0	0	1	2	1	3	0	0	0
+Ephemeroptera	HEPTAGENIIDAE	Electrogena	sp.	Electrogena	3	0	0	3	0	3	3	0	0	0	1	2	0	0	0	0	0	3	1	1	3	2	0	0	1	2	1	3	0	0	0
+Coleoptera	ELMIDAE	Elmis	sp. Ad. / Lv.	Elmis	1	3	0	3	0	3	3	0	2	0	0	0	3	0	0	0	0	2	1	0	2	0	0	0	0	3	1	3	3	0	0
+		Empididae			3	0	0	3	2	0	3	3	0	0	0	0	0	0	0	2	0	1	1	0	2	0	0	0	0	0	1	0	0	1	0
+Ephemeroptera	EPHEMERIDAE	Ephemera	sp.	Ephemera	1	3	3	1	0	3	3	0	0	0	0	3	1	0	0	0	0	1	1	1	3	2	0	0	3	0	1	3	0	0	0
+Hirudinea	ERPOBDELLIDAE	Erpobdella	sp.	Erpobdella	1	3	1	3	0	3	3	0	2	0	0	0	3	0	0	0	0	1	1	1	0	0	0	0	0	3	3	0	0	0	0
+Coleoptera	ELMIDAE	Esolus	sp. Ad. / Lv.	Esolus	1	3	0	3	0	3	3	0	2	0	0	0	3	0	0	0	0	2	1	0	2	0	0	0	0	3	1	3	3	0	0
+Crustacea	GAMMARIDAE	Gammarus	sp.	Gammarus	1	3	0	0	3	3	3	0	3	3	0	0	0	0	0	0	0	3	2	0	0	0	0	0	0	3	0	3	0	0	0
+Trichoptera	GLOSSOSOMATIDAE	Glossosoma	sp.	Glossosoma	3	0	0	2	1	3	3	3	0	0	0	0	3	0	0	0	0	1	2	1	1	0	2	0	2	0	3	0	0	0	0
+		Gyrinidae_larvae			1	3	0	3	0	3	3	0	2	0	0	0	3	0	0	0	0	0	2	0	3	0	0	0	0	3	1	3	0	3	0
+Trichoptera	LIMNEPHILIDAE	Halesus	sp.	Halesus	3	0	0	3	0	3	3	3	0	0	0	0	3	0	0	0	0	1	2	0	3	0	0	0	1	3	3	2	0	0	0
+		Haliplidae_larvae			1	3	0	1	3	3	3	0	2	0	0	0	2	0	1	0	0	1	1	0	3	0	0	0	0	3	3	1	0	3	0
+Coleoptera	HELOPHORIDAE	Helophorus	sp. Ad. / Lv.	Helophorus	1	3	0	3	1	1	1	0	2	0	0	0	0	0	0	3	0	1	1	0	3	0	0	0	0	3	0	0	1	3	0
+Ephemeroptera	HEPTAGENIIDAE	Heptagenia	sp.	Heptagenia	3	1	1	3	0	3	3	0	0	0	1	2	0	0	0	0	0	3	1	1	3	1	0	0	2	2	1	3	0	0	0
+Coleoptera	HYDRAENIDAE	Hydraena	sp. Ad. / Lv.	Hydraena	1	3	0	3	1	3	0	0	3	0	0	0	0	0	0	3	0	2	1	0	3	0	0	0	0	3	0	0	3	2	0
+		Hydrophilidae_larvae			1	3	0	3	1	3	3	0	2	0	0	0	2	0	0	0	0	0	1	0	3	0	0	0	0	3	1	0	1	3	0
+Coleoptera	DYTISCIDAE	Hydroporus	sp. Ad. / Lv.	Hydroporus	1	3	0	1	3	3	3	0	2	0	0	0	3	0	0	0	0	0	1	0	3	0	0	0	0	3	1	0	0	3	0
+Trichoptera	HYDROPSYCHIDAE	Hydropsyche	sp.	Hydropsyche	3	0	0	2	2	3	3	3	0	0	0	0	3	0	0	0	0	3	2	1	3	0	0	0	0	3	2	3	0	0	0
+		Hydroptilidae			3	0	0	1	2	3	3	3	0	0	0	0	3	0	0	0	0	1	1	2	1	0	0	0	0	3	3	1	0	0	0
+Plecoptera	PERLODIDAE	Isoperla	sp.	Isoperla	1	3	2	3	0	3	3	0	0	0	0	1	2	0	0	0	0	2	2	0	2	2	0	0	1	1	3	0	0	0	0
+Trichoptera	LEPIDOSTOMATIDAE	Lepidostoma	hirtum	Lepidostoma_hirtum	3	1	0	3	1	3	3	3	0	0	0	0	3	0	0	0	0	1	1	1	2	0	0	0	0	3	2	2	0	0	0
+Ephemeroptera	LEPTOPHLEBIIDAE	Leptophlebia	sp.	Leptophlebia	3	0	0	3	0	3	3	0	0	0	1	3	0	0	0	0	0	2	1	1	3	0	0	0	0	3	1	3	0	0	0
+Plecoptera	LEUCTRIDAE	Leuctra	sp.	Leuctra	3	1	1	3	0	3	3	0	0	0	0	3	0	0	0	0	0	2	2	0	1	1	0	0	0	3	3	0	0	0	0
+		Limnephilidae			2	0	0	3	0	3	3	3	0	0	0	0	2	0	0	0	0	1	2	0	2	0	0	0	1	2	2	2	0	0	0
+Coleoptera	ELMIDAE	Limnius	sp. Ad. / Lv.	Limnius	1	3	0	3	0	3	3	0	2	0	0	0	3	0	0	0	0	2	1	0	2	0	0	0	0	3	1	3	3	0	0
+		Limoniidae			2	0	0	3	1	2	2	0	0	0	1	0	1	0	0	0	0	0	1	1	1	0	0	0	0	2	0	0	0	3	0
+Plecoptera	NEMOURIDAE	Nemoura	sp.	Nemoura	2	2	2	2	0	3	3	0	0	0	0	3	1	0	0	0	0	2	2	0	2	0	0	0	1	3	3	0	0	0	0
+Plecoptera	NEMOURIDAE	Nemurella	pictetii	Nemurella_pictetii	3	1	1	3	0	3	3	0	0	0	0	2	2	0	0	0	0	3	2	0	1	0	0	0	1	2	3	0	0	0	0
+Trichoptera	ODONTOCERIDAE	Odontocerum	albicorne	Odontocerum_albicorne	3	2	2	3	0	3	3	3	0	0	0	0	0	0	0	3	0	3	1	1	2	0	0	0	0	3	2	3	0	0	0
+Coleoptera	DYTISCIDAE	Oreodytes	sp. Ad. / Lv.	Oreodytes	1	3	0	1	3	3	3	0	2	0	0	0	3	0	0	0	0	2	1	0	3	0	0	0	0	3	1	0	0	3	0
+Coleoptera	ELMIDAE	Oulimnius	sp. Ad. / Lv.	Oulimnius	1	3	0	3	0	3	3	0	2	0	0	0	3	0	0	0	0	2	1	0	2	0	0	0	0	3	1	3	3	0	0
+Ephemeroptera	LEPTOPHLEBIIDAE	Paraleptophlebia	sp.	Paraleptophlebia	3	0	0	3	0	3	3	0	0	0	0	3	0	0	0	0	0	2	1	1	3	0	0	0	0	3	1	3	0	0	0
+		Pediciidae			3	0	0	3	1	2	2	0	0	0	1	0	0	1	0	0	0	2	1	0	1	0	0	0	0	2	0	0	0	3	0
+Plecoptera	PERLIDAE	Perla	sp.	Perla	0	3	3	0	0	3	3	0	0	0	0	3	0	2	0	0	0	1	2	0	1	2	0	0	0	2	0	3	0	0	0
+Plecoptera	PERLODIDAE	Perlodes	sp.	Perlodes	0	3	1	3	0	3	3	0	0	0	0	3	0	0	0	0	0	1	2	0	1	2	0	0	0	3	3	0	0	0	0
+Trichoptera	PHILOPOTAMIDAE	Philopotamus	sp.	Philopotamus	3	0	0	3	0	3	3	3	0	0	0	0	3	0	0	0	0	1	1	1	1	0	0	0	2	2	3	0	0	0	0
+Bivalvia	SPHAERIIDAE	Pisidium	sp.	Pisidium	2	3	0	3	3	3	3	0	3	3	0	0	0	0	0	0	0	3	1	1	0	1	0	0	1	0	1	3	0	0	0
+Trichoptera	POLYCENTROPODIDAE	Plectrocnemia	sp.	Plectrocnemia	2	1	1	2	2	3	3	3	0	0	0	0	2	1	0	0	0	2	1	1	2	0	0	0	0	3	3	0	0	0	0
+		Polycentropodidae			3	0	0	2	3	3	3	3	0	0	0	0	3	0	0	0	0	2	1	1	2	0	0	0	0	3	3	0	0	0	0
+		Potamophylax			3	0	0	3	0	3	3	3	0	0	0	0	3	0	0	0	0	0	1	0	3	0	0	0	2	1	2	2	0	0	0
+Plecoptera	NEMOURIDAE	Protonemura	sp.	Protonemura	3	0	0	3	0	3	3	0	0	0	0	3	0	0	0	0	0	2	2	0	1	1	0	0	1	3	3	2	0	0	0
+Trichoptera	PSYCHOMYIIDAE	Psychomyia	pusilla	Psychomyia_pusilla	3	0	0	1	3	3	3	3	0	0	0	0	3	0	0	0	0	1	1	1	1	0	0	0	0	3	3	0	0	0	0
+		Psychomyiidae			3	0	0	1	3	3	3	3	0	0	0	0	3	0	0	0	0	1	1	1	1	0	0	0	0	3	3	0	0	0	0
+Gastropoda	LYMNAEIDAE	Radix	sp.	Radix	2	3	0	3	0	3	0	0	3	0	0	0	3	0	0	0	0	2	1	0	0	0	0	0	2	0	3	0	0	0	0
+Ephemeroptera	HEPTAGENIIDAE	Rhithrogena	sp.	Rhithrogena	3	1	1	3	0	3	3	0	0	0	1	1	3	0	0	0	0	3	2	1	3	2	0	0	0	2	1	3	0	0	0
+Trichoptera	RHYACOPHILIDAE	Rhyacophila	sp.	Rhyacophila	3	2	1	2	1	3	3	3	0	0	0	3	0	1	0	0	0	3	2	1	2	1	0	0	2	3	2	2	0	0	0
+		Scirtidae_larvae			1	3	0	3	0	3	3	0	0	0	0	0	0	0	0	3	0	0	1	0	3	0	0	0	0	3	1	3	0	0	0
+Trichoptera	SERICOSTOMATIDAE	Sericostoma	sp.	Sericostoma	3	1	2	3	1	3	3	3	0	0	0	0	3	0	0	0	0	2	1	1	1	0	0	0	1	3	2	2	0	0	0
+		Serratella			3	0	0	3	1	3	3	0	0	0	1	3	0	0	1	0	0	2	3	1	3	2	0	0	1	1	1	3	0	0	0
+Megaloptera	SIALIDAE	Sialis	sp.	Sialis	0	3	3	1	0	0	3	0	0	0	0	0	3	0	0	3	0	0	2	0	1	0	0	0	0	0	0	3	0	1	0
+Trichoptera	GOERIDAE	Silo	sp.	Silo	3	0	0	3	0	3	3	3	0	0	0	0	3	0	0	0	0	1	1	1	2	0	0	0	0	3	2	3	0	0	0
+		Simuliidae			3	1	0	2	3	2	3	3	0	0	1	0	3	1	0	1	0	2	2	3	1	1	0	0	1	0	3	1	0	2	0
+Ephemeroptera	SIPHLONURIDAE	Siphlonurus	sp.	Siphlonurus	3	0	0	3	0	3	3	0	0	0	1	3	0	0	1	0	0	1	2	1	3	3	0	0	0	0	1	2	0	0	0
+Plecoptera	CHLOROPERLIDAE	Siphonoperla	sp.	Siphonoperla	2	1	1	2	0	3	3	0	0	0	0	3	0	0	0	0	0	2	2	0	1	0	0	0	0	3	3	0	0	0	0
+Coleoptera	DYTISCIDAE	Stictotarsus	duodecimpustulatus Ad.	Stictotarsus_duodecimpustulatus	1	3	0	1	3	3	3	0	2	0	0	0	3	0	0	0	0	1	1	0	3	0	0	0	0	3	1	0	0	3	0
+		Thaumalea			3	0	0	3	0	1	2	2	0	0	0	0	0	0	0	3	0	2	1	0	1	0	0	0	0	1	0	0	0	3	0
+Trichoptera	PSYCHOMYIIDAE	Tinodes	sp.	Tinodes	3	0	0	2	3	3	3	3	0	0	0	0	3	0	0	0	0	2	1	1	1	0	0	0	0	3	3	0	0	0	0
+		Tipula			2	3	1	3	1	2	2	2	0	0	3	0	0	0	0	1	0	0	1	0	1	0	2	0	0	2	2	1	0	3	0
+Diptera	TIPULIDAE	Tipulidae	Gen. sp.	Tipulidae	2	3	1	3	1	2	2	2	0	0	3	0	0	0	0	1	0	0	1	0	1	0	2	0	0	2	2	1	0	3	0
+Heteroptera	VELIIDAE	Velia	sp.	Velia	3	0	0	3	1	0	2	0	2	0	0	0	3	0	0	3	0	1	3	0	1	0	0	0	3	0	0	0	0	3	0
+Trichoptera	PHILOPOTAMIDAE	Wormaldia	sp.	Wormaldia	0	3	3	0	0	3	3	3	0	0	0	0	3	0	0	0	0	1	2	1	1	0	0	0	0	3	3	1	0	0	0
+		Baetis_rhodani			3	0	0	2	3	3	3	0	0	0	0	1	3	0	0	0	0	3	2	1	3	2	0	0	0	2	1	2	0	0	0
+Trichoptera	LEPTOCERIDAE	Athripsodes	sp.	Athripsodes	3	0	0	3	0	3	3	3	0	0	0	0	3	0	0	0	0	2	1	1	3	0	0	0	0	3	2	3	0	0	0
+		Aeshnidae			0.75	2.75	2.5	1	0	1.75	3	0	0	0	0.5	0	0	0	3	1.25	0	1	0.75	0	2.75	1	0	0	1	2	1	3	0	0	0
+Crustacea	ASELLIDAE	Proasellus	sp.	Proasellus	1	3	0	1	2	3	3	0	3	3	0	0	0	0	0	0	0	3	0	0	0	0	0	0	2	2	0	3	0	0	0
+Ephemeroptera	BAETIDAE	Centroptilum	luteolum	Centroptilum_luteolum	3	0	0	0	3	3	3	0	0	0	0	3	0	0	0	0	0	2	2	1	2	1	0	0	0	3	1	2	0	0	0
+Trichoptera	BRACHYCENTRIDAE	Brachycentrus	sp.	Brachycentrus	3	0	0	3	0	3	3	3	0	0	0	0	3	0	0	0	0	0	1	1	2	0	0	0	0	3	3	2	0	0	0
+Odonata	CALOPTERYGIDAE	Calopteryx	sp.	Calopteryx	2	2	1	3	0	3	3	0	0	0	0	0	0	0	3	0	0	2	1	0	2	0	0	0	2	2	1	3	0	0	0
+		Coenagrionidae			2.285714286	1	1	2.142857143	1	2.142857143	3	0	0	0	0	0	0	0	3	0	0	0.857142857	0.714285714	0	3	0	0	0	0.571428571	2.142857143	1	3	0	0	0
+Odonata	COENAGRIONIDAE	Ischnura	sp.	Ischnura	3	0	0	2	2	2	3	0	0	0	0	0	0	0	3	0	0	1	1	0	3	0	0	0	2	2	1	3	0	0	0
+Odonata	COENAGRIONIDAE	Pyrrhosoma	nymphula	Pyrrhosoma_nymphula	3	2	2	2	1	3	3	0	0	0	0	0	0	0	3	0	0	2	1	0	3	0	0	0	0	3	1	3	0	0	0
+Coleoptera	DYTISCIDAE	Dytiscus	sp. Ad. / Lv.	Dytiscus	0	3	0	3	0	3	3	0	2	0	0	0	0	0	3	0	0	0	1	0	3	0	0	0	0	3	1	0	0	3	0
+		Ephemerella			3	0	0	3	1	3	3	0	0	0	1	3	0	0	1	0	0	2	3	1	3	2	0	0	1	1	1	3	0	0	0
+Ephemeroptera	EPHEMERELLIDAE	Torleya	major	Torleya_major	3	0	0	3	0	3	3	0	0	0	0	3	0	0	0	0	0	2	1	1	2	0	0	0	0	3	1	3	0	0	0
+		Ephemeridae			1	3	3	1	0	3	3	0	0	0	0	3	1	0	0	0	0	1	1	1	3	2	0	0	3	0	1	3	0	0	0
+Heteroptera	GERRIDAE	Gerris	sp.	Gerris	2	3	0	2	3	1	2	0	2	0	0	1	2	0	0	3	0	1	2	0	3	2	0	0	3	1	0	0	0	3	0
+Trichoptera	GOERIDAE	Goera	pilosa	Goera_pilosa	3	0	0	3	0	3	3	3	0	0	0	2	0	0	0	0	0	1	1	1	2	0	0	0	0	3	2	3	0	0	0
+		Goeridae			2.333333333	0	0	2	0	3	3	3	0	0	0	0.666666667	1.333333333	0	0	0	0	1	1	1	2	0	0	0	0	2	2	3	0	0	0
+		Gomphidae			0	3	2.25	1.25	0	3	3	0	0	0	1.5	2	0	0.25	0	0	0	2.25	0.5	0	3	2.25	0	0	0	0.75	1	3	0	0	0
+Coleoptera	GYRINIDAE	Orectochilus	villosus Ad. / Lv.	Orectochilus_villosus	1	3	0	3	0	3	3	0	2	0	0	0	3	0	0	0	0	2	2	0	3	0	0	0	0	3	1	3	0	3	0
+Coleoptera	HALIPLIDAE	Haliplus	sp. Ad. / Lv.	Haliplus	1	3	0	1	3	3	3	0	2	0	0	0	0	0	3	0	0	1	1	0	3	0	0	0	0	3	3	0	0	3	0
+Heteroptera	HYDROMETRIDAE	Hydrometra	sp.	Hydrometra	3	0	0	3	1	0	2	0	2	0	0	1	0	0	3	0	0	1	3	0	1	0	0	0	3	0	0	0	0	3	0
+		Lepidostomatidae			3	0.5	0	3	0.5	3	3	3	0	0	0	0	3	0	0	0	0	1	1	1	1.5	0	0	0	0	1.5	2	2	0	0	0
+		Leptoceridae			3	0.1	0	3	0.2	3	3	3	0	0	0	0	3	0.1	0	0	0	1.3	1	1	2.3	0	0	0	0.2	2.5	2.4	2.1	0	0	0
+Trichoptera	LEPTOCERIDAE	Mystacides	sp.	Mystacides	3	0	0	3	0	3	3	3	0	0	0	0	3	0	0	0	0	1	1	1	2	0	0	0	0	3	3	1	0	0	0
+Heteroptera	NEPIDAE	Nepa	sp.	Nepa	3	1	0	3	0	3	3	0	2	0	0	0	0	0	3	0	0	1	3	0	2	2	0	0	0	2	1	0	1	3	0
+Heteroptera	NOTONECTIDAE	Notonecta	sp.	Notonecta	3	2	0	3	0	3	3	0	2	0	0	0	1	0	3	0	0	0	2	0	3	1	0	0	3	0	1	0	1	3	0
+		Philopotamidae			2	1	1	2	0	3	3	3	0	0	0	0	3	0	0	0	0	1	1.333333333	1	1	0	0	0	0.666666667	1.666666667	3	0.666666667	0	0	0
+		Physidae			3	1	0	3	0	3	0	0	3	0	0	0	3	0	0	0	0	2	1	0	0	0	0	0	1	1	3	1	0	0	0
+Odonata	PLATYCNEMIDIDAE	Platycnemis	sp.	Platycnemis	0	2	2	3	0	3	3	0	0	0	0	0	0	0	3	0	0	1	1	0	3	0	0	0	2	2	1	3	0	0	0
+Bivalvia	SPHAERIIDAE	Sphaerium	sp.	Sphaerium	1	3	0	3	3	3	3	0	3	3	0	0	0	0	0	0	0	3	1	1	0	0	0	0	1	0	1	3	0	0	0
+Plecoptera	TAENIOPTERYGIDAE	Taeniopteryx	sp.	Taeniopteryx	3	0	0	3	0	3	3	0	0	0	0	3	0	0	0	0	0	2	2	0	1	0	0	0	1	2	3	2	0	0	0
+		Aphelocheirus_aestivalis			0	3	0	3	0	3	3	0	3	0	0	3	0	0	0	0	0	3	3	0	0	0	0	0	1	0	1	0	1	1	0
+		Blephariceridae			3	0	0	3	1	2	3	2	0	0	0	0	3	0	0	0	0	2	1	0	1	1	0	0	2.75	0	1	3	0	0	0
+		Platambus_Ad			0	3	0	3	1	3	3	0	2	0	0	0	3	0	0	0	0	2	1	0	3	0	0	0	0	3	1	0	0	3	0
+		Deronectes_Ad			1	3	0	1	3	3	3	0	2	0	0	0	3	0	0	0	0	2	1	0	3	0	0	0	0	3	1	0	0	3	0
+		Deronectes_larvae			1	3	0	1	3	3	3	0	2	0	0	0	3	0	0	0	0	2	1	0	3	0	0	0	0	3	1	0	0	3	0
+Diptera	TABANIDAE	Tabanidae	Gen. sp.	Tabanidae	3	0	0	3	0	1	2	0	0	0	0	0	3	0	0	2	0	0	1	0	3	0	0	0	1	3	0	0	0	3	0
+		Heptageniidae			3	0.5	0.5	3	0	3	3	0	0	0	0.75	1.75	1	0	0	0	0	2.75	1.25	1	3	1.5	0	0	1	2.25	1	3	0	0	0
+		Potamopyrgus_antipodarum			3	1	0	1	3	3	0	0	3	3	0	0	0	0	0	0	0	3	2	2	0	0	0	0	1	0	1	3	0	0	0
+Ephemeroptera	LEPTOPHLEBIIDAE	Habrophlebia	sp.	Habrophlebia	3	0	0	3	0	3	3	0	0	0	1	3	0	0	0	0	0	1	1	1	1	2	0	0	1	1	1	3	0	0	0
+		Lymnaeidae			2.8	1	0.2	2.4	0.8	3	0	0	2.2	0	0	0	3	0.2	0	0	0	2	1.2	0	0	0	0	0	1.4	0	3	0	0	0	0
+		Oligochaeta			NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+Turbellaria	PLANARIIDAE	Polycelis	sp.	Polycelis	0	3	0	3	0	3	3	0	3	0	0	0	2	0	0	0	1	1	2	0	0	3	0	0	0	0	3	0	0	0	0
+		Planorbidae			2.2	1.4	1.2	2.4	0.4	3	0	0	3	0	0	0	3	0	0	0	0	2	1.2	0	0	0	0	0.2	1	0.8	3	0.4	0	0	0
+		Pericoma			3	0	0	1	3	2	2	2	0	1	0	1	3	0	0	0	0	3	1	0	1	0	0	0	0	3	0	0	0	3	0
+		Psychoda			3	0	0	1	3	2	2	2	0	1	0	1	3	0	0	0	0	3	1	0	1	0	0	0	0	3	0	0	0	3	0
+		Berdeniella			3	0	0	1	3	2	2	2	0	1	0	1	3	0	0	0	0	3	1	0	1	0	0	0	0	3	0	0	0	3	0
+		Oecismus_monedula			0	0	0	0	0	3	3	3	0	0	0	0	3	0	0	0	0	2	1	1	1	0	0	0	0	1	2	2	0	0	0
+		Dicranota			3	0	0	3	1	2	2	0	0	0	1	0	0	1	0	0	0	2	1	0	1	0	0	0	0	2	0	0	0	3	0
+		Baetidae			3	0	0	1.002380952	2.992857143	3	3	0	0	0.75	0.25	1.997619048	0.75	0	0	0	0	1.747619048	1.997619048	1	2.247619048	1.495238095	0	0	0	2	1	2	0	0	0
+		Brachycentridae			2.666666667	0.333333333	0.333333333	2.666666667	0	3	3	3	0	0	0	0	2.666666667	0	0	0	0	0	1	1	2	0	0	0	0	3	3	2	0	0	0
+		Caenidae			3	0	0	2	1.5	3	3	0	0	0	1	2	0	0	0	0	0	1.5	1	1	1	2.5	0	0	0.5	1	1	3	0	0	0
+		Bezzia			3	0	0	2	2	1	2	2	0	0	0	1	3	0	0	0	0	3	1	0	2	1	0	0	0	3	0	3	0	0	0
+		Cordulegastridae			0	3	3	0	0	2	3	0	0	0	3	0	0	0	0	1	0	2	0	0	3	0	0	0	0	3	1	3	0	0	0
+		Ephemerellidae			3	0	0	3	1	3	3	0	0	0	1	3	0	0	1	0	0	2	3	1	3	2	0	0	1	1	1	3	0	0	0
+		Gammaridae			0.5	3	0	0	3	3	3	0	3	3	0	0	0	0	0	0	0	3	1.5	0	0	0	0	0	0	3	0	3	0	0	0
+		Glossosomatidae			3	0.25	0.25	2.75	0.5	3	3	3	0	0	0	0	3	0	0	0	0	1	1.75	1	1	0	1	0	1	1	3	0	0	0	0
+		Hydrobia			2	1.6	0	1.6	0.8	1.8	1.2	0	3	1.4	0	2	0	0	0	0	0	2.6	1.2	0.6	0	0	0	0	1.6	0.6	1.6	2.2	0	0	0
+		Hydrobiidae			2	1.6	0	1.6	0.8	1.8	1.2	0	3	1.4	0	2	0	0	0	0	0	2.6	1.2	0.6	0	0	0	0	1.6	0.6	1.6	2.2	0	0	0
+		Hydropsychidae			3	0.333333333	0.333333333	2.666666667	1.333333333	3	3	3	0	0	0	0	3	0	0	0	0	3	1.333333333	1	3	0	0	0	0	3	2	2	0	0	0
+Trichoptera	HYDROPTILIDAE	Hydroptila	sp.	Hydroptila	3	0	0	2	3	3	3	3	0	0	0	0	3	0	0	0	0	1	1	2	1	0	0	0	0	3	3	1	0	0	0
+Trichoptera	HYDROPTILIDAE	Oxyethira	sp.	Oxyethira	3	0	0	1	3	3	3	3	0	0	0	0	3	0	0	0	0	1	1	2	1	0	0	0	0	3	3	0	0	0	0
+		Leuctridae			3	0.495327103	0.495327103	3	0	3	3	0	0	0	0	1.5	0	1.5	0	0	0	2.004672897	2	0	1	0.495327103	0	0	1.5	1.5	3	0	0	0	0
+Trichoptera	LIMNEPHILIDAE	Anabolia	sp.	Anabolia	3	0	0	3	0	3	3	3	0	0	0	0	3	0	0	0	0	3	2	0	3	0	0	0	3	1	2	3	0	0	0
+		Limnephilus			3	0	0	3	0	3	3	3	0	0	0	0	3	0	0	1	0	0	1	0	2	2	0	0	0	2	2	2	0	0	0
+		Stenophylax			3	0	0	3	0	3	3	3	0	0	0	0	3	0	0	0	0	0	1	0	3	0	0	0	2	1	2	2	0	0	0
+		Hexatoma			1	0	0	3	1	2	2	0	0	0	1	0	1	0	0	0	0	1	1	0	1	0	0	0	0	2	0	0	0	3	0
+		Hilara			3	0	0	3	2	0	3	3	0	0	0	0	0	0	0	2	0	1	1	0	2	0	0	0	0	0	1	0	0	1	0
+		Nemouridae			2.75	0.75	0.75	2.75	0	3	3	0	0	0	0	2.75	0.75	0	0	0	0	2.25	2	0	1.25	0.5	0	0	1.25	2.5	3	1	0	0	0
+		Perlidae			0	3	3	0	0	3	3	0	0	0	0	3	0	0.5	0	0	0	1	2	0	1	1	0	0	0.5	2.25	1.5	1.5	0	0	0
+		Perlodidae			0.857142857	2.571428571	2	1.857142857	0	3	3	0	0	0	0	1.142857143	1	1	0	0	0	1.285714286	2	0	1.142857143	1.571428571	0	0	0.428571429	1.857142857	3	0	0	0	0
+Diptera	PSYCHODIDAE	Psychodidae	Gen. sp.	Psychodidae	3	0	0	1	3	2	2	2	0	1	0	1	3	0	0	0	0	3	1	0	1	0	0	0	0	3	0	0	0	3	0
+		Sericostomatidae			1.5	0.25	0.5	1	0.75	3	3	3	0	0	0	0	3	0	0	0	0	2	1	1	1	0	0	0	0.25	1.5	2	2	0	0	0
+		Sphaeriidae			1.5	3	0	3	3	3	3	0	3	3	0	0	0	0	0	0	0	2	1	1	0	0.5	0	0	1	0	1	3	0	0	0
+		Hydracarina			NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+		Ostracoda			NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+Coleoptera	HYDROPHILIDAE	Anacaena	sp. Ad. / Lv.	Anacaena	1	3	0	3	1	3	3	0	2	0	0	0	3	0	0	0	0	0	1	0	3	0	0	0	0	3	1	0	1	3	0
+Trichoptera	ECNOMIDAE	Ecnomus	sp.	Ecnomus	3	0	0	3	1	3	3	3	0	0	0	2	0	0	0	0	0	1	1	1	1	0	0	0	0	3	3	0	0	0	0
+Trichoptera	HELICOPSYCHIDAE	Helicopsyche	sp.	Helicopsyche	3	0	0	3	0	1	3	3	0	0	0	2	2	0	0	0	0	0	0	1	1	1	0	0	1	3	3	0	0	0	0
+		Hydrophilidae_Ad			1	3	0	3	1	3	3	0	2	0	0	0	2	0	0	0	0	0	1	0	3	0	0	0	0	3	1	0	1	3	0
+		Dytiscidae_Ad			1	3	0	2	2	3	3	0	2	0	0	0	2	0	1	0	0	1	1	0	3	0	0	0	0	3	1	0	0	3	0
+		Gyrinidae_Ad			1	3	0	3	0	3	3	0	2	0	0	0	3	0	0	0	0	0	2	0	3	0	0	0	0	3	1	3	0	3	0
+		Haliplidae_Ad			1	3	0	1	3	3	3	0	2	0	0	0	2	0	1	0	0	1	1	0	3	0	0	0	0	3	3	1	0	3	0
+		Scirtidae			1	3	0	3	0	3	3	0	0	0	0	0	0	0	0	3	0	0	1	0	3	0	0	0	0	3	1	3	0	0	0
+		Hydraenidae_larvae			1	3	0	2.25	1.75	0	0.5	0	3	0	0	0	0	0	0	3	0	1.75	0.75	0	2.75	0	0	0	0	3	0	0	3	0	0
+		Elmis_larvae			1	3	0	3	0	3	3	0	2	0	0	0	3	0	0	0	0	2	1	0	2	0	0	0	0	3	1	3	3	0	0

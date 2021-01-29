@@ -1,0 +1,144 @@
+predator	reference	river	year	region	season	FG1	FG2	FG3	FG4	NA	Total
+dipper	Agnew and Perry 1993	Faughan	NA	Ireland	Apr-Aug	0	18.42105263	62.5	0	0	80.92105263
+dipper	Agnew and Perry 1993	Roe	NA	Ireland	Apr-Aug	0	25.15923567	53.18471338	0.636942675	0	78.98089172
+dipper	Horbath 2002	Josva	1991	Hungary	Sep-Mar	82.5	10.4	6.9	0.05	0	99.85
+dipper	Horbath 2002	Josva	1992	Hungary	Sep-Mar	58.775	18.35	21.075	3.755	0	101.955
+dipper	Ormerod 1985	Wye	1983	Wales	Apr-Aug	0	37.9	57.73333333	0	0	95.63333333
+dipper	Ormerod and Tyler 1986	Wye	1983-1985	Wales	Sep-Mar	7.8	14.8	73.35	1.5	1.7	99.15
+dipper	Ormerod and Tyler 1991	acidic	1988-1989	Wales	Apr-Aug	0	17.8	70.2	0	0	88
+dipper	Ormerod and Tyler 1991	acidic	1988-1989	Wales	NA	0	25.14178542	70.51821458	0	0	95.66
+dipper	Ormerod and Tyler 1991	circumneutral	1988-1989	Wales	Apr-Aug	0	28.7	74.3	0	0	103
+dipper	Ormerod and Tyler 1991	circumneutral	1988-1989	Wales	NA	0	26.76	68.72	0	0.28	95.76
+dipper	Ormerod et al 1987	Imsvassdraget Figgjovassdraget Hvassdraget	1985	Norway	Apr-Aug	0	17.65	81.35	0.05	0	99.05
+dipper	Santamaria 1990b	Ulla	1987-1988	Spain	Apr-Aug	0.625	2.9	85.55	2.975	0	92.05
+dipper	Santamaria 1990b	Ulla	1987-1988	Spain	Sep-Mar	0	8.25	85.65	2.35	0.1	96.35
+dipper	Santamaria 1993	Riobo	NA	Spain	Apr-Aug	2	12	61.75	5.5	0	81.25
+dipper	Santamaria 1993	Riobo	NA	Spain	Sep-Mar	0	13	50.5	27.75	0	91.25
+dipper	Smith and Ormerod 1986	Wye	1985	Wales	Apr-Aug	0	2	92.2	0	0.3	94.5
+dipper	Taylor and OHalloran 1997	Araglin Douglas Glashaboy Licky	1991-1992	Ireland	Winter and Summer	2.578217546	13.95721553	75.18639816	3.180963	0	94.90279423
+dipper	Taylor and OHalloran 2001	baseflow	1991	Ireland	Sep-Mar	7.8	17.5	66.2	0	0	91.5
+dipper	Taylor and OHalloran 2001	spate	1991	Ireland	Sep-Mar	2.6	10	65.6	0	0	78.2
+salmon	Allen 1941	Eden	NA	Scotland	annual	0	3.8	61.625	0.0325	0	65.4575
+salmon	Allen 1941	Thurso	NA	Scotland	annual	0	4.7	60.55	1.65	0	66.9
+salmon	Bailey 1961	Yarty	1961-1962	England	annual	5.73	0.61	76.32	0.1	1.36	84.12
+salmon	Dineen et al 2007	Closed Canopy - Addergoole Beltra Crumpaun Glenisland	2002	Ireland	annual	0	0	65.6	0	0	65.6
+salmon	Dineen et al 2007	Closed Canopy - Addergoole Beltra Crumpaun Glenisland	2002	Ireland	Apr-Aug	0	0	78.76666667	0	0	78.76666667
+salmon	Dineen et al 2007	Closed Canopy - Addergoole Beltra Crumpaun Glenisland	2002	Ireland	Sep-Mar	0	0	43.15	0	0	43.15
+salmon	Dineen et al 2007	Grassland - Lodge  Srahrevagh	2002	Ireland	annual	0	0	59.05	0	0	59.05
+salmon	Dineen et al 2007	Grassland - Lodge  Srahrevagh	2002	Ireland	Apr-Aug	0	0	63.3	0	0	63.3
+salmon	Dineen et al 2007	Grassland - Lodge  Srahrevagh	2002	Ireland	Sep-Mar	0	0	45.5	0	0	45.5
+salmon	Dineen et al 2007	Open Canopy - Boghadoon  Skerdagh	2002	Ireland	annual	0	0	72.5	0	0	72.5
+salmon	Dineen et al 2007	Open Canopy - Boghadoon  Skerdagh	2002	Ireland	Apr-Aug	0	0	84.23333333	0	0	84.23333333
+salmon	Dineen et al 2007	Open Canopy - Boghadoon  Skerdagh	2002	Ireland	Sep-Mar	0	0	53.55	0	0	53.55
+salmon	Egglishaw 1967	Almond	NA	Scotland	annual	0.166666667	0.166666667	90.66666667	0	0	91
+salmon	Egglishaw 1967	Almond	NA	Scotland	Apr-Aug	0.333333333	0.333333333	84.33333333	0	0	85
+salmon	Egglishaw 1967	Almond	NA	Scotland	Sep-Mar	0	0	97	0	0	97
+salmon	Egglishaw 1967	Shelligan	NA	Scotland	annual	2.791666667	1.666666667	70	0	0	74.45833333
+salmon	Egglishaw 1967	Shelligan	NA	Scotland	Apr-Aug	3.4	2	68	0	0	73.4
+salmon	Egglishaw 1967	Shelligan	NA	Scotland	Sep-Mar	0	0	80	0	0	80
+salmon	Keeley and Grant 1997	Catamaran Brook	1992	Canada	Apr-Aug	0.6	0	56.8	0.4	0	57.8
+salmon	Maitland 1965	Endrick	1961	Scotland	annual	1.2	7.1	84.2	1.5	0.2	94.2
+salmon	Mann and Blackburn 1991	Frome.Tadnoll Brook	1973, 1980-1984	England	Apr-Aug	0.5	0.6	97.6	0	0	98.7
+salmon	McCormick D P and Harrison S C 2011	Argideen closed	2007	Ireland	Apr-Aug	0	0	71.4	0	0	71.4
+salmon	McCormick D P and Harrison S C 2011	Argideen closed	2007	Ireland	Sep-Mar	0	0	28.6	0	0	28.6
+salmon	McCormick D P and Harrison S C 2011	Argideen open	2007	Ireland	Apr-Aug	0	0	79.4	0	0	79.4
+salmon	McCormick D P and Harrison S C 2011	Argideen open	2007	Ireland	Sep-Mar	0	0	50	0	0	50
+salmon	McCormick D P and Harrison S C 2011	Argideen Upper closed	2007	Ireland	Apr-Aug	0	0	90	0	0	90
+salmon	McCormick D P and Harrison S C 2011	Argideen Upper closed	2007	Ireland	Sep-Mar	0	0	33.4	0	0	33.4
+salmon	McCormick D P and Harrison S C 2011	Argideen Upper open	2007	Ireland	Apr-Aug	0	0	96.2	0	0	96.2
+salmon	McCormick D P and Harrison S C 2011	Argideen Upper open	2007	Ireland	Sep-Mar	0	0	81.9	0	0	81.9
+salmon	McCormick D P and Harrison S C 2011	Blackwater closed	2007	Ireland	Apr-Aug	0	0	84.7	0	0	84.7
+salmon	McCormick D P and Harrison S C 2011	Blackwater closed	2007	Ireland	Sep-Mar	0	0	42.8	0	0	42.8
+salmon	McCormick D P and Harrison S C 2011	Blackwater open	2007	Ireland	Apr-Aug	0	0	80.7	0	0	80.7
+salmon	McCormick D P and Harrison S C 2011	Blackwater open	2007	Ireland	Sep-Mar	0	0	57.1	0	0	57.1
+salmon	McCormick D P and Harrison S C 2011	Caha closed	2007	Ireland	Apr-Aug	0	0	87.6	0	0	87.6
+salmon	McCormick D P and Harrison S C 2011	Caha closed	2007	Ireland	Sep-Mar	0	0	64.7	0	0	64.7
+salmon	McCormick D P and Harrison S C 2011	Caha open	2007	Ireland	Apr-Aug	0	0	85.6	0	0	85.6
+salmon	McCormick D P and Harrison S C 2011	Caha open	2007	Ireland	Sep-Mar	0	0	86.9	0	0	86.9
+salmon	McCormick D P and Harrison S C 2011	Glashagieragh closed	2007	Ireland	Apr-Aug	0	0	92.3	0	0	92.3
+salmon	McCormick D P and Harrison S C 2011	Glashagieragh closed	2007	Ireland	Sep-Mar	0	0	58.4	0	0	58.4
+salmon	McCormick D P and Harrison S C 2011	Glashagieragh open	2007	Ireland	Apr-Aug	0	0	93.8	0	0	93.8
+salmon	McCormick D P and Harrison S C 2011	Glashagieragh open	2007	Ireland	Sep-Mar	0	0	63.7	0	0	63.7
+salmon	McCormick D P and Harrison S C 2011	Ihernagh closed	2007	Ireland	Apr-Aug	0	0	94.1	0	0	94.1
+salmon	McCormick D P and Harrison S C 2011	Ihernagh open	2007	Ireland	Apr-Aug	0	0	96.3	0	0	96.3
+salmon	McCormick D P and Harrison S C 2011	Owennagearagh closed	2007	Ireland	Apr-Aug	0	0	77.7	0	0	77.7
+salmon	McCormick D P and Harrison S C 2011	Owennagearagh closed	2007	Ireland	Sep-Mar	0	0	83.3	0	0	83.3
+salmon	McCormick D P and Harrison S C 2011	Owennagearagh open	2007	Ireland	Apr-Aug	0	0	96.7	0	0	96.7
+salmon	McCormick D P and Harrison S C 2011	Owennagearagh open	2007	Ireland	Sep-Mar	0	0	60	0	0	60
+salmon	Perkins et al 	Afon Berwyn	2012	Wales	Apr-Aug	0	2.6	97.4	0	0	100
+salmon	Perkins et al 	Ceirw	2012	Wales	Apr-Aug	0	12.5	87.5	0	0	100
+salmon	Perkins et al 	Marteg	2012	Wales	Apr-Aug	0	4.054054054	95.94594596	0	0	100
+salmon	Perkins et al 	Upper Duhonw	2012	Wales	Apr-Aug	0	0	100	0	0	100
+salmon	Sanchez-Hernandez J 2013	Landro	2011	Spain	Apr-Aug	0	7	92.4	0.6	0	100
+salmon	Soong 1938	East Mill Fordingbridge	NA	England	Apr-Aug	16.04	1.3	63	0	0	80.34
+salmon	Thomas 1962	Teify	NA	Wales	Apr-Aug	2.78	15.54	80.01	0.3	0	98.63
+salmon	Thomas 1962	Teify	NA	Wales	Sep-Mar	2	19.01666667	71.80833333	0.7	0.033333333	93.55833333
+trout	Andersen et al 1992	Grib Forest Northern Zealand	NA	Denmark	Apr-Aug	56	0	32.5	0	0	88.5
+trout	Bailey 1961	Yarty	1961-1962	England	annual	18.17	2.53	50.7	0	1.985	73.385
+trout	Crespin De Billy 2002	Neste dAure - regulated	1998	France	Apr-Aug	0	0	31.4	0.15	0	31.55
+trout	Crespin De Billy 2002	Neste dAure - unregulated	1998	France	Apr-Aug	0	0	15.25	0.2	0	15.45
+trout	Dahl 1998	Klingavalsan creek	1996	Sweden	Apr-Aug	6.3	0	39.7	0	0	46
+trout	Dineen et al 2007	Closed Canopy - Addergoole Beltra Crumpaun Glenisland	2002	Ireland	annual	0	0	32.06666667	0	0	32.06666667
+trout	Dineen et al 2007	Closed Canopy - Addergoole Beltra Crumpaun Glenisland	2002	Ireland	Apr-Aug	0	0	43.1	0	0	43.1
+trout	Dineen et al 2007	Closed Canopy - Addergoole Beltra Crumpaun Glenisland	2002	Ireland	Sep-Mar	0	0	9.9	0	0	9.9
+trout	Dineen et al 2007	Grassland - Lodge  Srahrevagh	2002	Ireland	annual	0	0	30.2	0	0	30.2
+trout	Dineen et al 2007	Grassland - Lodge  Srahrevagh	2002	Ireland	Apr-Aug	0	0	39.3	0	0	39.3
+trout	Dineen et al 2007	Grassland - Lodge  Srahrevagh	2002	Ireland	Sep-Mar	0	0	13.76666667	0	0	13.76666667
+trout	Dineen et al 2007	Open Canopy - Boghadoon  Skerdagh	2002	Ireland	annual	0	0	28.4	0	0	28.4
+trout	Dineen et al 2007	Open Canopy - Boghadoon  Skerdagh	2002	Ireland	Apr-Aug	0	0	39.22	0	0	39.22
+trout	Dineen et al 2007	Open Canopy - Boghadoon  Skerdagh	2002	Ireland	Sep-Mar	0	0	7.666666667	0	0	7.666666667
+trout	Egglishaw 1967	Almond	NA	Scotland	annual	1.5	0.25	83	0	0	84.75
+trout	Egglishaw 1967	Almond	NA	Scotland	Apr-Aug	1.333333333	0.333333333	79.66666667	0	0	81.33333333
+trout	Egglishaw 1967	Shelligan	NA	Scotland	annual	7	1.666666667	67.08333334	0	0	75.75000001
+trout	Egglishaw 1967	Shelligan	NA	Scotland	Apr-Aug	4.666666667	1.333333333	78	0	0	84
+trout	Egglishaw 1967	Shelligan	NA	Scotland	Sep-Mar	0	3	49	0	0	52
+trout	Elliot 1967	Walla Brook	1962-1963	England	annual	0	6.771670325	56.00979032	1.925173995	0	64.70663464
+trout	Elliot 1973	Estibere Neste dAure - exp 1	1972	France	Apr-Aug	0	11.2244898	61.73469388	0	0	72.95918368
+trout	Elliot 1973	Estibere Neste dAure - exp 2	1972	France	Apr-Aug	1.098901099	3.296703297	73.07692308	0	0	77.47252748
+trout	Elliot 1973	Estibere Neste dAure - exp 3	1972	France	Apr-Aug	0	2.409638554	75.30120482	0	0	77.71084338
+trout	Fochetti et al 2003	Nera	1996-1998	Italy	annual	0	29.5	61	0	0	90.5
+trout	Garcia de Jalon and Barcelo 1987	Ara Ainsa	1985	Spain	Sep-Mar	0	50	50	0	0	100
+trout	Garcia de Jalon and Barcelo 1987	Ara Janovas	1985	Spain	Sep-Mar	0	48	48	4	0	100
+trout	Garcia de Jalon and Barcelo 1987	Cinca	1985	Spain	Sep-Mar	0	48	49	2	0	99
+trout	Kreivi P Muotka T Huusko A Maki-Petays A Huhta A and Meissner K 1999	River Kuusinkijoki	1991	Finland	Apr-Aug	0	0	77.83333333	0	8.333333333	86.16666667
+trout	Kreivi P Muotka T Huusko A Maki-Petays A Huhta A and Meissner K 1999	River Kuusinkijoki	1991	Finland	Sep-Mar	0	0	80.5	0	12.25	92.75
+trout	Maitland 1965	Endrick	1961	Scotland	annual	4.3	1.4	47.1	1.5	0.1	54.4
+trout	Mann and Blackburn 1991	Frome.Tadnoll Brook	1973, 1980-1984	England	Apr-Aug	3.7	0.9	88	0	0	92.6
+trout	Meissner K and Muotka T 2006	meta-analysis	meta-analysis	meta-analysis	annual	0	0	21	0	0	21
+trout	Oscoz J P M Leunda F Campos M C Escala and R Miranda 2005	Erro	2002	Spain	Apr-Aug	2.69	14.76	33.55	0	0	51
+trout	Perkins et al 	Afon Berwyn	2012	Wales	Apr-Aug	0	80	20	0	0	100
+trout	Perkins et al 	Afon Gain	2012	Wales	Apr-Aug	0	0	100	0	0	100
+trout	Perkins et al 	Afon Hafren 2012	2012	Wales	Apr-Aug	0	46.15384616	53.84615384	0	0	100
+trout	Perkins et al 	Ceirw	2012	Wales	Apr-Aug	0	0	100	0	0	100
+trout	Perkins et al 	Dulais	2012	Wales	Apr-Aug	0	13.04347826	82.60869566	4.347826087	0	100
+trout	Perkins et al 	Marteg	2012	Wales	Apr-Aug	0	20	53.33333333	26.66666667	0	100
+trout	Perkins et al 	Nant Clwedog Uchaf	2012	Wales	Apr-Aug	3.03030303	15.15151515	78.78787878	3.03030303	0	100
+trout	Perkins et al 	Nant Gelli Gethin	2012	Wales	Apr-Aug	0	0	100	0	0	100
+trout	Perkins et al 	Nant Gwryd	2012	Wales	Apr-Aug	0	0	100	0	0	100
+trout	Perkins et al 	Nant Pen y Cwm	2012	Wales	Apr-Aug	0	0	100	0	0	100
+trout	Perkins et al 	Upper Duhonw	2012	Wales	Apr-Aug	1.754385965	3.50877193	94.73684211	0	0	100
+trout	Sanchez-Hernandez 2009	Anllons	2007	Spain	Sep-Mar	0.25	4.7425	37.6975	10.3625	0	53.0525
+trout	Sanchez-Hernandez 2009	Furelos	2007	Spain	Sep-Mar	13.525	0.8775	35.2875	8.595	0	58.285
+trout	Sanchez-Hernandez 2009	Lengüele	2007	Spain	Sep-Mar	5.0575	4.04	60.38	5.32	0	74.7975
+trout	Sanchez-Hernandez 2009	Rois	2002	Spain	Apr-Aug	0.3	6.2	43.65	4.43	0	54.58
+trout	Sanchez-Hernandez 2009	Santa Lucia	2002	Spain	Apr-Aug	0.6	1.55	25.23	5.245	0.7	33.325
+trout	Sanchez-Hernandez 2009	Sar	2002	Spain	Apr-Aug	33.66	0.3	34	3.65	0	71.61
+trout	Sanchez-Hernandez 2009	Tambre	2007	Spain	Sep-Mar	1.65	3.365	35.675	12.4	0	53.09
+trout	Sanchez-Hernandez 2009	Traba	2002	Spain	Apr-Aug	0.1	1.755	74.385	1.345	0	77.585
+trout	Sanchez-Hernandez et al 2011	Ladra	1996	Spain	Sep-Mar	2.95	1.98	88.19	1.64	0.33	95.09
+trout	Santamaria 1993	Riobo	NA	Spain	annual	4.875	6.4375	46.3125	17.8125	0	75.4375
+trout	Santamaria 1993	Riobo	NA	Spain	Apr-Aug	1.333333333	6.333333333	45.5	8.166666667	0	61.33333333
+trout	Santamaria 1993	Riobo	NA	Spain	Sep-Mar	6	5.166666667	35.5	33.33333333	0	80
+trout	Soong 1938	East Mill Fordingbridge	NA	England	Apr-Aug	41.04	3.1	32	0.5	0	76.64
+trout	Thomas 1962	Teify	NA	Wales	Apr-Aug	2.3	11.26666667	69.125	2.05	0.166666667	84.90833333
+trout	Thomas 1962	Teify	NA	Wales	Sep-Mar	4.383333333	20.71666667	64.26666667	1.806666667	0.116666667	91.29
+wagtail	Ormerod and Tyler 1987	Wye Tywi Taff and upper Severn	1985	Wales	Apr-Aug	0.5	9.75	9.75	1.125	0	21.125
+wagtail	Ormerod and Tyler 1991	broadleaved	1987	Wales	Apr-Aug	0.5	5.825	5.825	0.5	0	12.65
+wagtail	Ormerod and Tyler 1991	conifer	1987	Wales	Apr-Aug	0.5	11.825	11.825	0.5	0	24.65
+wagtail	Ormerod and Tyler 1991	site4	1987	Wales	Apr-Aug	0.5	6.25	6.25	0.5	0	13.5
+wagtail	Ormerod and Tyler 1991	site5	1986	Wales	NA	0.575	6.45	6.45	0.575	0	14.05
+wagtail	Santamaria 1990	Ulla	1988	Spain	annual	5.15	4.9	4.9	9.65	0	24.6
+wagtail	Santamaria 1990	Ulla	1988	Spain	Apr-Aug	13.8	6.425	6.425	16.525	0	43.175
+wagtail	Santamaria 1990	Ulla	1988	Spain	Sep-Mar	2.65	10.5	10.5	12.95	0	36.6
+wagtail	Santamaria 1993	Riobo	NA	Spain	Apr-Aug	2	0.5	36.5	2	0	41
+wagtail	Santamaria 1993	Riobo	NA	Spain	Sep-Mar	11	10	22	1	0	44
